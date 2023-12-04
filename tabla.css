@@ -1,0 +1,10 @@
+td{
+text-align: center;
+}
+tr{
+    background-color: rgb(251, 255, 0);
+}
+table{
+    background-color: red;
+    width: 80%;
+}
